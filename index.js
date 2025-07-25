@@ -33,7 +33,7 @@ app.post("/signUp" , async function(req, res){
         return;
     }
     res.json({
-        message: "You are signed up"
+        message: "You are signeddd up"
     });
 });
 
